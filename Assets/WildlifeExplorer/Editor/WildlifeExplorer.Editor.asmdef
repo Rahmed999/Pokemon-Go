@@ -1,0 +1,1 @@
+{"name":"WildlifeExplorer.Editor","references":["WildlifeExplorer.Runtime","Unity.TextMeshPro","Unity.ugui","Unity.InputSystem","Unity.XR.ARFoundation","Unity.XR.ARSubsystems","Unity.XR.CoreUtils","UnityEditor.TestRunner","UnityEngine.TestRunner"],"includePlatforms":["Editor"]}

@@ -1,0 +1,7 @@
+{
+  "name": "WildlifeExplorer.Tests",
+  "references": ["WildlifeExplorer.Runtime", "Unity.ugui"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}
+
